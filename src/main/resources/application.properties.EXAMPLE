@@ -1,0 +1,4 @@
+spring.datasource.url=STRINGCONEXAOBANCODADOS
+spring.datasource.username=USERNAMEBANCODADOS
+spring.datasource.password=SENHABANCODADOS
+spring.jpa.hibernate.ddl-auto=update
